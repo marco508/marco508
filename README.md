@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Todd DJIKPESSE
+- 👋 Hi, I am Todd M-A. DJIKPESSE
 - 👀 I’m interested in Gaming, IoT and Programming
 - 🌱 I’m currently learning how to deploy big applications for big systems
 - 💞️ I’m looking to collaborate on:

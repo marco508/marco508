@@ -1,5 +1,5 @@
 - 👋 Hi, I am Todd M-A. DJIKPESSE
-- 👀 I’m interested in Gaming, IoT and Programming
+- 👀 I’m interested in Gaming, Internet of Things (IoT) and Programming
 - 🌱 I’m currently learning how to deploy big applications for big systems
 - 💞️ I’m looking to collaborate on:
 -                      gaming projects including community management for any projects in the gaming world

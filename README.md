@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marco508
+- 👋 Hi, I’m Todd DJIKPESSE
 - 👀 I’m interested in Gaming, IoT and Programming
-- 🌱 I’m currently learning how to deploy an application for big systems
+- 🌱 I’m currently learning how to deploy big applications for big systems
 - 💞️ I’m looking to collaborate on:
 -                      gaming projects including community management for any projects in the gaming world
 -                      projects in IoT (i am just starting but i am very motivated and ready to learn)
